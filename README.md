@@ -16,7 +16,7 @@ else{
   printf("Your number is zero")
   }
   }
-
-  return 0;
+ 
+ return 0;
 
 }
